@@ -2,14 +2,6 @@
 
 A simple typescript Boilerplate for writing FiveM scripts with typescript.
 
-## Authors
-
-- [@CieranNicholas](https://github.com/CieranNicholas)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Run Locally
 
 Clone the project
@@ -41,3 +33,11 @@ Production
 ```bash
   npm run build
 ```
+
+## Authors
+
+- [@CieranNicholas](https://github.com/CieranNicholas)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
